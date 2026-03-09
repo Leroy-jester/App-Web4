@@ -10,8 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+=======
+    "framer-motion": "^12.35.0",
+    "react": "^19.2.0",
+    "react-calendar": "^6.0.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.13.1",
+>>>>>>> 209a31f (não sei o número desse commit)
     "sass": "^1.97.3"
   },
   "devDependencies": {
